@@ -1,0 +1,121 @@
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WPFToolkit.dll
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WPFToolkit.pdb
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\MainWindow.baml
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\MainWindow.g.cs
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\App.g.cs
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Fluent.dll
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Fluent.pdb
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Fluent.xml
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_Profile_View.baml
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_Profile_View.g.cs
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Neodynamic.WPF.Barcode.dll
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Neodynamic.WPF.Barcode.xml
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_IDCard.baml
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_IDCard.g.cs
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Loan_Detail.baml
+C:\Users\AnanD\Documents\Visual Studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Loan_Detail.g.cs
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Investment_Main.baml
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Investment_Main.g.cs
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill.baml
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill.g.cs
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill_Process.baml
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill_Process.g.cs
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe.config
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe.manifest
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.application
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.pdb
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA_MarkupCompile.cache
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.g.resources
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.exe.manifest
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.application
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.exe
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.pdb
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Data\Profile.mdf
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Data\Profile_log.ldf
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA_Content.g.cs
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\AnanD\documents\visual studio 2010\Projects\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication1.camera.WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe.config
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.exe
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.pdb
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Data\Profile.mdf
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Data\Profile_log.ldf
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe.manifest
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.application
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.pdb
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Fluent.pdb
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Fluent.xml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Neodynamic.WPF.Barcode.xml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WPFToolkit.pdb
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_IDCard.baml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_Profile_View.baml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill.baml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill_Process.baml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Investment_Main.baml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Loan_Detail.baml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\MainWindow.baml
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_IDCard.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_Profile_View.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill_Process.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Investment_Main.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Loan_Detail.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\App.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA_Content.g.cs
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA_MarkupCompile.cache
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.g.resources
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.exe.manifest
+C:\Users\Shyam\Desktop\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.application
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe.config
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.exe
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.pdb
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Data\Profile.mdf
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Data\Profile_log.ldf
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe.manifest
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.application
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.exe
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WpfApplication_BETA.pdb
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Fluent.pdb
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Fluent.xml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\Neodynamic.WPF.Barcode.xml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\bin\Debug\WPFToolkit.pdb
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_IDCard.baml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_Profile_View.baml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill.baml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill_Process.baml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Investment_Main.baml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Loan_Detail.baml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\MainWindow.baml
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_IDCard.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Cust_Profile_View.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Installment_Bill_Process.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Investment_Main.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\Loan_Detail.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\App.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA_Content.g.cs
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA_MarkupCompile.cache
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.g.resources
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.exe.manifest
+C:\Users\Thangamani\Desktop\BACKSTROKE LABS\Dilray Jewellers\WpfApplication_BETA\WpfApplication_BETA\obj\x86\Debug\WpfApplication_BETA.application
